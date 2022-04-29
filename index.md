@@ -33,7 +33,7 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 
 ### Yasuhiko Nakao M.D. PhD
 
-R　Python Pytorch fastai C#を用いたdeep learningを含む機械学習の開発をおこなっています。
+R　Python Pytorch fastai C#を使用したdeep learningを含む機械学習系の医療応用に関する研究開発をおこなっています。趣味は筋トレ、散歩、卓球です。
 
 ### 発表論文
 
