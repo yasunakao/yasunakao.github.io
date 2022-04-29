@@ -1,4 +1,5 @@
-## Welcome to Team NAGASAKI AI Labo Pages ようこそチームAIラボへ
+## Welcome to Team NAGASAKI AI Labo Pages 
+ようこそチーム長崎AIラボへ
 
 You can use the [editor on GitHub](https://github.com/yasunakao/yasunakao.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
