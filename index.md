@@ -8,7 +8,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 科研費を獲得し研究活動を行なっております。
 https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-22K17997/
 
-### 医療データから深層学習を用いて患者や医療従事者に役に立つAIアプリの開発をおこなっています。
+### 医療データから深層学習を用いて患者様や医療従事者に役に立つAIアプリの開発をおこなっています。
 
 ```markdown
 現在進行中のプロジェクト
