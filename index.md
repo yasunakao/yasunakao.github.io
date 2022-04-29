@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Team AI Labo Pages ようこそチームAIラボへ
 
 You can use the [editor on GitHub](https://github.com/yasunakao/yasunakao.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -6,12 +6,12 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+医療データから深層学習を用いて患者や医療従事者に役に立つAIアプリの開発をおこなっています。
 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
+# deep learning project 1
 ## Header 2
 ### Header 3
 
