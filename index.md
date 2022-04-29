@@ -35,6 +35,12 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 
 R　Python Pytorch fastai C#を使用したdeep learningを含む機械学習系の医療応用に関する研究開発をおこなっています。趣味は筋トレ、散歩、卓球です。
 
+Department of Gastroenterology and Hepatology
+Nagasaki University
+1-7-1 Sakamoto, Nagasaki, 852-8501
+Tel: 507 284 0686; Fax: 507 284 0762
+yasuhiko.dream.new.york@gmail.com
+
 ### 発表論文
 
 1） Nakao, Y., Fukushima, M., Mauer, A. S., Liao, C. Y., Ferris, A., Dasgupta, D., Heppelmann, C. J., Vanderboom,
