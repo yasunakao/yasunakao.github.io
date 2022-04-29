@@ -4,14 +4,17 @@ You can use the [editor on GitHub](https://github.com/yasunakao/yasunakao.github
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+科研費を獲得し研究活動を行なっております。
+https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-22K17997/
+
 ### 医療データから深層学習を用いて患者や医療従事者に役に立つAIアプリの開発をおこなっています。
 
 ```markdown
-Syntax highlighted code block
+現在進行中のプロジェクト
 
-# deep learning 
-## bioinformatics
-### clinical research
+# 救急医療における深層学習を用いた腹部CT画像AI診断補助システムの開発 
+# bioinformatics
+# clinical research
 
 - Bulleted
 - List
