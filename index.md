@@ -14,6 +14,7 @@ https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-22K17997/
 現在進行中のプロジェクト
 
 # 救急医療における深層学習を用いた腹部CT画像AI診断補助システムの開発 
+# NST(Neutrition Suport Team)へ応用可能な医療AIアプリの開発
 # bioinformatics
 # clinical research
 
