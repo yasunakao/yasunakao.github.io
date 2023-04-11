@@ -23,7 +23,7 @@ https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-22K17997/
 
 
 
-### Yasuhiko Nakao M.D. PhD
+### Yasuhiko Nakao M.D. PhD https://researchmap.jp/Y.Nakao
 
 R　Python Pytorch fastai C#を使用したdeep learningを含む機械学習系の医療応用に関する研究開発をおこなっています。趣味は筋トレ、散歩、卓球です。
 
