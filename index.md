@@ -1,9 +1,7 @@
 ## Welcome to Team NAGASAKI AI Labo Pages 
 ようこそチーム長崎AIラボへ
 
-You can use the [editor on GitHub](https://github.com/yasunakao/yasunakao.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 科研費を獲得し研究活動を行なっております。
 https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-22K17997/
@@ -84,3 +82,7 @@ clinicopathological characteristic of HCC occurrence after IFN-free DAA therapy?
 https://doi.org/10.1016/j.jhep.2017.11.011
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+You can use the [editor on GitHub](https://github.com/yasunakao/yasunakao.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
