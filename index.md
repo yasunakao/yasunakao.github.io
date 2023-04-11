@@ -15,18 +15,12 @@ https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-22K17997/
 
 # 救急医療における深層学習を用いた腹部CT画像AI診断補助システムの開発 
 # NST(Nutrition Suport Team)へ応用可能な医療AIアプリの開発
-# bioinformatics
+# 看護師向けの医療サポートとして経鼻胃管挿入位置に対する胃音の異常検知モデル
+# Openposeによる関節運動評価を取り入れた理学療法の1例
+# “食道アカラシア”の病態評価に用いられる食道内圧計High-resolution esophageal manometry（HREM）に対する食道アカラシアAI診断補助モデル
+# bioinformatics 病理検体とエクソソーム（前述）を関連させた空間シングルセルオミクス診断システム
 # clinical research
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
