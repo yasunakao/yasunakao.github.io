@@ -1,7 +1,8 @@
 ## Welcome to Team NAGASAKI Degital Medical AI (DegiMA)Labo Pages 
 ようこそチーム長崎AIラボへ
 
-
+Team member
+Yasuhiko Nakao, Ryou Sasaki, Fumihiro Mawatari, Yuko Akazawa, Maiko Tabuchi, Ayumu Shiroo, Saki Shimada, Eriko Nakao
 
 科研費を獲得し研究活動を行なっております。
 https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-22K17997/
