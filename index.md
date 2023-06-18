@@ -1,4 +1,4 @@
-## Welcome to Team NAGASAKI Degital Medical AI (DegiMA)Labo Pages 
+## Welcome to Team NAGASAKI Digital Medical AI DIGIMA Labo Pages 
 ようこそチーム長崎AIラボへ
 
 Team member
