@@ -1,4 +1,5 @@
-## Welcome to Team NAGASAKI Digital Medical AI DIGIMA Labo Pages 
+## Welcome to Team NAGASAKI Digital Medical AI DIGIMA Labo Pages <img width="256" alt="image" src="https://github.com/yasunakao/yasunakao.github.io/assets/48026870/7abc83b9-6ab5-4931-bfd6-9af777f6da85">
+
 ようこそチーム長崎AIラボへ
 
 Team member
